@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1680955235 source:c:\users\acer\desktop\danh\danhdanhdanhdanh\untitled1.cpp
+	<iostream>
+	<random>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"game.h"
+	<sstream>
+	"font.h"
+
+1675676672 c:\users\acer\desktop\danh\sdl2_image-2.6.3\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680945389 source:c:\users\acer\desktop\danh\danhdanhdanhdanh\game.cpp
+	"game.h"
+
+1680945424 c:\users\acer\desktop\danh\danhdanhdanhdanh\game.h
+	<SDL.h>
+
+1680955449 source:c:\users\acer\desktop\danh\danhdanhdanhdanh\src\font.cpp
+	"font.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1680934656 c:\users\acer\desktop\danh\danhdanhdanhdanh\include\font.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+
